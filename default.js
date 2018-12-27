@@ -1,0 +1,1 @@
+var default_settings = {host:"localhost", port:"7777", timeMapRefresh:1000, timeReconnect:5000, timeNoData:2000, gpsStartLat:50.0, gpsStartLon:33.0, gpsStartZoom:12, gpsDistanceStep:10, alt1:0, alt2:0, sound_enable:true, sound_up:0.4, sound_preup:-0.2, sound_down:-2.0}

@@ -1,0 +1,13 @@
+{
+  "name": "This is my first PWA",
+  "short_name": "My Test PWA",
+
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#3367D6",
+  "icons": [
+    {
+      "src": "ico.png"
+    }
+  ]
+}
