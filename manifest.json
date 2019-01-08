@@ -1,9 +1,9 @@
 {
-  "name": "This is my first PWA",
-  "short_name": "My Test PWA",
+  "name": "Avisab Nafihator",
+  "short_name": "Nafihator",
 
   "start_url": "index.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#3367D6",
   "icons": [
     {
